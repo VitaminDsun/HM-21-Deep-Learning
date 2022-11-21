@@ -1,0 +1,16 @@
+# Overview 
+
+To predict which applicants will get funded, Alphabet Soup is developing an algorithm. Our task is to create a binary classification system using the features provided in the dataset, based on our knowledge of machine learning and neural networks. With the help of this algorithm, Alphabet Soup can predict whether an applicant will succeed if it is funded.
+
+# Results: 
+
+We removed all irrelevant information prior to beginning. Once we removed EIN and NAME, the remaining columns were to be considered features of the model. Name was added back to the second test for binging purposes. The data was then split into training and testing sets. “IS_SUCCESSFUL” is a variable in the model that has a value of 1 when it is successful and 0 when it is not. Binning was performed on application data based on the "CLASSIFICATION" value. Each unique value was grouped together with the newly created value of "Other" based on several data points. In order to determine whether the bining was successful, get_dummies() encoded categorical variables.
+
+# Training, and Evaluating the Model:
+
+In this assignment i used three layers in total for each model as well as Neural Networks. In each modle the number of hidden nodes was determined by the amount of fetures, a total of 477 parameters were created by a three-layer training model. The first attempt was just over 73.26% accuracy it was almost sucsessful to the targeted amount of 75% 
+
+The second attempt with the dataset, achieved an accuracy of almost 59.17%. pretty far from the target 75% with 11,091 parameters.
+
+in was running in to some issue with getting the modle to work in a diffrenty notebook so i did it all in the same one this might have been a patyhing issue but i was un able to get a TA or tutor to help me with it so i just did it all in the one notebook
+
