@@ -10,9 +10,9 @@ We removed all irrelevant information prior to beginning. Once we removed EIN an
 
 In this assignment i used three layers in total for each model as well as Neural Networks. In each modle the number of hidden nodes was determined by the amount of fetures, a total of 477 parameters were created by a three-layer training model. The first attempt was just over 73.26% accuracy it was almost sucsessful to the targeted amount of 75% 
 
-The second attempt with the dataset, achieved an accuracy of almost 59.17%. pretty far from the target 75% with 11,091 parameters.
+The second attempt with the dataset, achieved an accuracy of almost 59.17%. pretty far from the target 75% with 11,091 parameters. I was able to get the accuracy to improve with some tweeking and messing around with it 
 
-in was running in to some issue with getting the modle to work in a diffrenty notebook so i did it all in the same one this might have been a patyhing issue but i was un able to get a TA or tutor to help me with it so i just did it all in the one notebook
+in was running in to some issue with getting the modle to work in a diffrenty notebook so i did it all in the same one this might have been a pathing issue but i was un able to get a TA or tutor to help me with it so i just did it all in the one notebook
 
 
 # Unit 21 Homework: Charity Funding Predictor
