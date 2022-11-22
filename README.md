@@ -15,6 +15,9 @@ The second attempt with the dataset, achieved an accuracy of almost 59.17%. pret
 in was running in to some issue with getting the modle to work in a diffrenty notebook so i did it all in the same one this might have been a pathing issue but i was un able to get a TA or tutor to help me with it so i just did it all in the one notebook
 
 
+![1_goFgCUHprcroxSLZvROjpg](https://user-images.githubusercontent.com/93777016/203441366-d172456d-e74c-4061-92cc-5b95b4c20b43.jpeg)
+
+
 # Unit 21 Homework: Charity Funding Predictor
 
 ## Background
